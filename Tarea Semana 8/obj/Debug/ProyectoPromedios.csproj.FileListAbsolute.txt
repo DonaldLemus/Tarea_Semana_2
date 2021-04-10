@@ -1,0 +1,10 @@
+C:\Users\Obed\source\repos\ProyectoPromedios\ProyectoPromedios\bin\Debug\ProyectoPromedios.exe.config
+C:\Users\Obed\source\repos\ProyectoPromedios\ProyectoPromedios\bin\Debug\ProyectoPromedios.exe
+C:\Users\Obed\source\repos\ProyectoPromedios\ProyectoPromedios\bin\Debug\ProyectoPromedios.pdb
+C:\Users\Obed\source\repos\ProyectoPromedios\ProyectoPromedios\obj\Debug\ProyectoPromedios.csprojAssemblyReference.cache
+C:\Users\Obed\source\repos\ProyectoPromedios\ProyectoPromedios\obj\Debug\ProyectoPromedios.Form1.resources
+C:\Users\Obed\source\repos\ProyectoPromedios\ProyectoPromedios\obj\Debug\ProyectoPromedios.Properties.Resources.resources
+C:\Users\Obed\source\repos\ProyectoPromedios\ProyectoPromedios\obj\Debug\ProyectoPromedios.csproj.GenerateResource.cache
+C:\Users\Obed\source\repos\ProyectoPromedios\ProyectoPromedios\obj\Debug\ProyectoPromedios.csproj.CoreCompileInputs.cache
+C:\Users\Obed\source\repos\ProyectoPromedios\ProyectoPromedios\obj\Debug\ProyectoPromedios.exe
+C:\Users\Obed\source\repos\ProyectoPromedios\ProyectoPromedios\obj\Debug\ProyectoPromedios.pdb
